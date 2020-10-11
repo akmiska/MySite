@@ -1,0 +1,77 @@
+/********************************TAG SELECTORS******************************************/
+body {
+    margin: 0px;
+}
+
+table {
+    color: #aa4a30;
+    padding-top: 0px;
+}
+td {
+    style: "color:#aa4a30"
+}
+
+img {
+    align-items: center;
+}
+
+h1 { 
+    font-family: "Stardos Stencil"; font-size: 100px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; 
+    
+}
+h1 {
+    color: #aa4a30;
+    margin-top: 25px;
+    text-align: center;
+}
+p 
+{ font-family: "Cabin Sketch"; font-size: 48px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; 
+}
+
+p 
+{
+    color: #aa4a30;
+    text-align: center;
+}
+
+a:link, a:visited {
+    background-color: #aa4a30;
+    color: #edcfa9;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: "Stardos Stencil"; font-size: 18px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px;
+}
+  
+  a:hover, a:active {
+    background-color: red;
+  }
+
+/*
+
+*/
+
+/*******************************CLASS SELECTORS**********************************************/
+.middle-container {
+    padding-top: 40px;
+    background-color: #e89f71;
+    height: 180px;
+}
+
+.bottom-container {
+    background-color: #d57149;
+    height: 400px;
+}
+
+/*
+
+*/
+
+/*******************************ID SELECTORS***********************************************/
+#top-container{
+    background-color: #edcfa9;
+    height: 60px;
+
+}
+ 
